@@ -1,2 +1,2 @@
-#This is Head#
-*this is italic font*
+# This is Head
+*this is italic font* 
